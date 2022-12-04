@@ -22,7 +22,7 @@ N/A
 
 By opening Chrome DevTools by right clicking and pressing inspect or using the commands, Command+option+I (MacOS) or COntrol+Shift+I (windows) you can view the code and the changes that were added as stated in the description. 
 
-![alt text](./Develop/assets/images/screenshot.png)
+![alt text](./assets/images/screenshot.png)
 
 
 ## Credits
