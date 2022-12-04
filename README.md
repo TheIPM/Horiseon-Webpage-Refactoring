@@ -4,7 +4,7 @@
 
 This is the first weekly challenge for the my boot camp. This challenge involved refactoring an existing website. What was accomplished was not only fixing the code on the webpage so everything is working as intended, but also making the code look cleaner with the addition of semantic htmls. 
 
-In addition to this, we simplified the code and ended up merging code that did the same thing. The motivation behind this was to implement exisitng knowledge to see how I can improve existing code.
+In addition to this we consolidated the code. The motivation behind this was to implement exisitng knowledge to see how I can improve existing code.
 
 ## Table of Contents 
 
